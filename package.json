@@ -1,0 +1,21 @@
+{
+  "name": "hackmud-theme",
+  "displayName": "Hackmud Theme",
+  "description": "VSCode theme to make it look more like Hackmud",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hackmud Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hackmud Theme-color-theme.json"
+      }
+    ]
+  }
+}
