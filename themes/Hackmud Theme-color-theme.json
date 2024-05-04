@@ -11,7 +11,7 @@
     "editorCursor.foreground": "#628EC6",
     "selection.background": "#a2caff",
     "statusBar.background": "#a2caff",
-    "titleBar.activeForeground": "#628EC6",
+    "titleBar.activeForeground": "#a2caff",
     "titleBar.border": "#628EC6",
     "button.background": "#628EC6",
     "button.foreground": "#fff"
